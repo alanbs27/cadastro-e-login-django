@@ -1,4 +1,4 @@
-# cadastro e login django
+# CADASTRO E LOGIN DJANGO
 ## Um Sistema básico de cadastro e login utilizando o framework DJANGO
 
 ## Tela inicial de cadastro ou login
